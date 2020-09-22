@@ -5,7 +5,7 @@ Project Overview:
  A simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker.
 
 In the final architecture AWS API Gateway and AWS Lambda functions is used as well. The application architecture diagram is:
-![](https://github.com/Vikashr21/Sagemaker-Sentiment-Analysis/Web App Diagram.svg)
+![](https://github.com/Vikashr21/Sagemaker-Sentiment-Analysis/blob/master/Web%20App%20Diagram.svg)
 
 #instructions
 Please see the [Original README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).For the solutions only clone this repository:
@@ -31,4 +31,4 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-![](https://github.com/Vikashr21/Sagemaker-Sentiment-Analysis/WebAppResult.gif)
+![](https://github.com/Vikashr21/Sagemaker-Sentiment-Analysis/blob/master/WebAppResult.gif)
