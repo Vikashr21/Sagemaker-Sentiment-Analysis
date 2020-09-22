@@ -24,8 +24,8 @@ Step 1: Downloading the data
 <br/>Step 5: Testing the Model
 <br/>Step 6: Deploying the model for testing
 <br/>Step 7: Use the model for testing
-<br/>Step 6 Deploy the model for the web app
-<br/>Step 7 Use the model for the web app
+<br/>Step 8: Deploy the model for the web app
+<br/>Step 9: Use the model for the web app
 
 # Final Web app :
 
